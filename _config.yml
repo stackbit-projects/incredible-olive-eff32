@@ -43,3 +43,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://incredible-olive-eff32.netlify.app'
